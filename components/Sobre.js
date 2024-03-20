@@ -100,5 +100,4 @@ card: {
   borderWidth: 0.5,
   flexDirection: 'row',
 }
-
 });
